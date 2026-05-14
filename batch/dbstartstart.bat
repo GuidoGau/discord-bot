@@ -1,0 +1,1 @@
+powershell "start "C:\Users\okuya\OneDrive\Desktop\discord-bot\batch\dbstart.bat" -WindowStyle Hidden"
